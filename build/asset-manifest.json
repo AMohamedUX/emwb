@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emwb/static/css/main.bbec6f30.css",
+    "main.js": "/emwb/static/js/main.25c1798c.js",
+    "index.html": "/emwb/index.html",
+    "main.bbec6f30.css.map": "/emwb/static/css/main.bbec6f30.css.map",
+    "main.25c1798c.js.map": "/emwb/static/js/main.25c1798c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbec6f30.css",
+    "static/js/main.25c1798c.js"
+  ]
+}
